@@ -1,4 +1,4 @@
-# 14 — Projeto final: VideoGames Sales
+# 14 — Projeto: VideoGames Sales
 
 Análise exploratória de dados de vendas globais de videogames.
 
