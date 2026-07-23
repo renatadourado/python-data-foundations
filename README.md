@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="images/banner-python-data-foundations.png" alt="Python Data Foundations Banner" width="100%">
-</p>
+<img width="1536" height="1024" alt="banner-python-data-foundations" src="https://github.com/user-attachments/assets/f6048026-ac27-45b0-9753-16cc20a66c01" />
+
 
 # 🐍 Python Data Foundations
 
