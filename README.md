@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-python-data-foundations.png" alt="banner-python-data-foundations" width="100%">
+  <img src="images/banner-python-data-foundations.png" alt="Python Data Foundations Banner" width="100%">
 </p>
 
 # 🐍 Python Data Foundations
