@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="banner-python-data-foundations" src="https://github.com/user-attachments/assets/f6048026-ac27-45b0-9753-16cc20a66c01" />
+<img width="1535" height="1024" alt="banner-python-data-foundations" src="https://github.com/user-attachments/assets/cf8ec45e-17f1-4e8f-aafc-d2df15038ba6" />
+
 
 
 # 🐍 Python Data Foundations
