@@ -54,7 +54,7 @@ O conteúdo está organizado em módulos sequenciais, abordando desde os fundame
 
 📁 13 Plotly
 
-📁 14 Projeto Final
+📁 14 Projeto
 
 ---
 
@@ -100,7 +100,7 @@ O conteúdo está organizado em módulos sequenciais, abordando desde os fundame
 
 # 📊 Projeto em Destaque
 
-O projeto final aplica os conhecimentos desenvolvidos ao longo do curso para realizar:
+O projeto aplica os conhecimentos desenvolvidos ao longo do curso para realizar:
 
 - Leitura de dados
 - Limpeza e transformação
