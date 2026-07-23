@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="imagens/banner-python-data-foundations.png" alt="Python Data Foundations" width="100%">
+  <img src="banner-python-data-foundations.png" alt="banner-python-data-foundations" width="100%">
 </p>
-
 
 # 🐍 Python Data Foundations
 
