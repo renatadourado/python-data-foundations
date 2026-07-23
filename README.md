@@ -8,7 +8,7 @@
 
 # 📖 Sobre o Projeto
 
-Este repositório foi desenvolvido durante meus estudos de **Python**, com foco na construção de uma base sólida para **Engenharia de Dados**.
+Este repositório reúne minha jornada de aprendizado em Python com foco em Engenharia de Dados. Os conteúdos estão organizados de forma progressiva, desde os fundamentos da linguagem até a manipulação, análise e visualização de dados utilizando as principais bibliotecas do ecossistema Python.
 
 O conteúdo está organizado em módulos sequenciais, abordando desde os fundamentos da linguagem até manipulação, análise e visualização de dados utilizando as principais bibliotecas do ecossistema Python.
 
