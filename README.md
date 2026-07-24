@@ -113,8 +113,7 @@ O projeto aplica os conhecimentos desenvolvidos ao longo do curso para realizar:
 # 👩‍💻 Autor
 
 **Renata Franklin Dourado**
-
-**Data Engineering Student | Python | SQL | Pandas | Git**
+Full Stack Data & Analytics Student | Chemical Engineer |  SQL | Python | Pandas |
 
 GitHub:
 https://github.com/renatadourado
